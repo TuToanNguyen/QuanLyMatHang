@@ -1,0 +1,11 @@
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\bin\Debug\QuanLyMatHang.exe.config
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\bin\Debug\QuanLyMatHang.exe
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\bin\Debug\QuanLyMatHang.pdb
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.csprojResolveAssemblyReference.cache
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.Form1.resources
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.Properties.Resources.resources
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.QL_mặt_hàng.resources
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.csproj.GenerateResource.cache
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.exe
+C:\Users\Nicolaipc\Desktop\QuanLyMatHang\QuanLyMatHang\obj\Debug\QuanLyMatHang.pdb
